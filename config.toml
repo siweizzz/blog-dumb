@@ -1,2 +1,4 @@
+baseURL = "https://siweizhu.com/blog/"
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "My New Hugo Site"
+theme = "jeffprod"
